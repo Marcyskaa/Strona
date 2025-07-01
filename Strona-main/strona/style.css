@@ -1,0 +1,22 @@
+img {
+    width: 325px;
+    height: 500px;
+}
+
+body {background-color: beige;
+
+}
+
+.pierwsza {
+font-size: 50px;
+}
+.druga {
+    font-size: 40px;
+}
+.trzecia {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 100px;
+}
